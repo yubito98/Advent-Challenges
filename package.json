@@ -1,0 +1,14 @@
+{
+  "name": "advent-challenges",
+  "version": "1.0.0",
+  "description": "Solving all challenges from https://adventjs.dev/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Yubor Molina yubor98@gmail.com",
+  "license": "ISC"
+}
